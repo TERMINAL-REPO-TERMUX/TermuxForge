@@ -5,24 +5,33 @@ Origin: TermuxForge
 Label: TermuxForge
 Suite: stable
 Codename: stable
+Date: Fri, 30 Oct 2026 13:57:02 UTC
 Architectures: aarch64
 Components: main
 Description: TermuxForge APT Repository
+
+MD5Sum:
+ fc3cdc14fde6f86f6acfbbc613ed5421 467 main/binary-aarch64/Packages
+ f6196934e5f3d322b93892ddba87afd3 351 main/binary-aarch64/Packages.gz
+
+SHA1:
+ d217a87b6d9f0ff462f4d8a364085f365588672f 467 main/binary-aarch64/Packages
+ e18d5cd0784c24e48c4e01f23cc65d3d22cf6506 351 main/binary-aarch64/Packages.gz
 
 SHA256:
  91259595fb66db9f6d29f6f19766eef7590f34c365c7d8ff3ee13b641575b44b 467 main/binary-aarch64/Packages
  5e7410db9ff026ad9de49ae5d213618039ed46fd6f124906c504b1bc5cedd066 351 main/binary-aarch64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCAA5FiEEtAEvQBp2BrScmfbu7+C1QEFRAdYFAmrklRcbFIAAAAAABAAO
-bWFudTIsMi41KzEuMTIsMywyAAoJEO/gtUBBUQHWU/gMAMlUWwBJkK1Ows5pwK9u
-3vDEE8KlRiepdWPmezN94fFEDVxkVmVD7+gJtcO7l/P+VPbB7XD2Nz0UzbroGxZ/
-QliR3hmYVN83ejdyS6yFheWR8gjbZG/v76HOrWeKufgeeSntquIgg5hcWLU5mxGo
-6ml/V1ervk4NSShtk3CPduyGhrCq7R4GkgH6oBA9wZNH+kTEJplceQBA2rQoIC5x
-eovQfjVBRsaUQmli7/SRdqygbxHvPR0IwelP494gl6WygL6R2fBwhMNcMa+BLHGO
-WE+TQyOmENxGHj03PvxxN4tUeps1k5Gg5YuCJE2MWxZNbLAQBD1ol8u9wuuOKbnG
-+LdlyJpkAEx1rPqy79gECqAB1Nv+XKwQ5LePfm06nrQkUDSXRrCcOoxLs9JjZJJn
-LoaE1434P+Hu1h2tyKoALnV6SnSsAqhGy4vllT4FlAiU0IxZKSFHlLvsk3yi4cXk
-krCr41DqnyxfY6SylbHUwmiOO3y61Z+n2Q4jWVW4N01K+g==
-=lxfl
+iQHPBAEBCAA5FiEEtAEvQBp2BrScmfbu7+C1QEFRAdYFAmrkonQbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMywyAAoJEO/gtUBBUQHWCdQL/1log5tHIF+ohyUnbPpn
+lx2YgK0bxCNBHdxX7XIXSAkoCvqdXnua2holxoBLivqM3WfezlhhLnttiYwK7cL7
+ssqFu7cEi3z3tUD1Ah0G52+sUHAv8fDGSV+0lns45110AY4ehz2BqYxzbjKoLfHM
+BkuO2RLCjLxOdjLkb0dv3BU/sI7ay3az3yHLowH9joxPq8Ke8uLGwOSbHBrOD2Fi
+8cSdLjzjN9l+5+ofwIJphQfW7N8WZk12tvt+1g+zEuUuPbcp2G9wWAU4MQCO5L3G
+a5HZoDwUAI/iRIgAc3sZV6PN/98lsP0mIOJF7XeioqJj1yyP4TRF98EH1ADHoFvH
+aNjjWEy0GfmsODkEBeEGpqdnhU2mvO6sEjw1KY8GyPGG6aoDpdehhJWDZo//vLFN
+aVhiMz2nGT9U0+w8UtLXUmEYOMbmiG5fKJlQdlj10KpJTEgaEFJHEII2lZ+exRol
+u2r8TZXN3KAPGAeL9LZzLjcFm7yNGAd+asO9BJ/pJJH+Ng==
+=aRdC
 -----END PGP SIGNATURE-----

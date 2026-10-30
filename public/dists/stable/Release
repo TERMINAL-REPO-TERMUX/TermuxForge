@@ -2,9 +2,18 @@ Origin: TermuxForge
 Label: TermuxForge
 Suite: stable
 Codename: stable
+Date: Fri, 30 Oct 2026 13:57:02 UTC
 Architectures: aarch64
 Components: main
 Description: TermuxForge APT Repository
+
+MD5Sum:
+ fc3cdc14fde6f86f6acfbbc613ed5421 467 main/binary-aarch64/Packages
+ f6196934e5f3d322b93892ddba87afd3 351 main/binary-aarch64/Packages.gz
+
+SHA1:
+ d217a87b6d9f0ff462f4d8a364085f365588672f 467 main/binary-aarch64/Packages
+ e18d5cd0784c24e48c4e01f23cc65d3d22cf6506 351 main/binary-aarch64/Packages.gz
 
 SHA256:
  91259595fb66db9f6d29f6f19766eef7590f34c365c7d8ff3ee13b641575b44b 467 main/binary-aarch64/Packages
