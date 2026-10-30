@@ -1,0 +1,14 @@
+Package: forge-hello
+Version: 0.1.0
+Architecture: all
+Maintainer: TermuxForge contributors
+Filename: pool/main/forge-hello.deb
+Size: 924
+MD5sum: c7d8b981c3f1913c6b0a0933c4e43a59
+SHA1: edcc18aa047fc18e368b48cb5a34ad44f1dc3e84
+SHA256: 32e264c4ad2d21d5c3193885125d39f011428b01fb01ee44291cf97380ad36cf
+Section: utils
+Priority: optional
+Description: Harmless test command for the TermuxForge APT repository
+ A tiny command used to test package creation and installation.
+

@@ -1,0 +1,11 @@
+Origin: TermuxForge
+Label: TermuxForge
+Suite: stable
+Codename: stable
+Architectures: aarch64
+Components: main
+Description: TermuxForge APT Repository
+
+SHA256:
+ 91259595fb66db9f6d29f6f19766eef7590f34c365c7d8ff3ee13b641575b44b 467 main/binary-aarch64/Packages
+ 5e7410db9ff026ad9de49ae5d213618039ed46fd6f124906c504b1bc5cedd066 351 main/binary-aarch64/Packages.gz

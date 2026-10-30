@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: TermuxForge
+Label: TermuxForge
+Suite: stable
+Codename: stable
+Architectures: aarch64
+Components: main
+Description: TermuxForge APT Repository
+
+SHA256:
+ 91259595fb66db9f6d29f6f19766eef7590f34c365c7d8ff3ee13b641575b44b 467 main/binary-aarch64/Packages
+ 5e7410db9ff026ad9de49ae5d213618039ed46fd6f124906c504b1bc5cedd066 351 main/binary-aarch64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQHPBAEBCAA5FiEEtAEvQBp2BrScmfbu7+C1QEFRAdYFAmrklRcbFIAAAAAABAAO
+bWFudTIsMi41KzEuMTIsMywyAAoJEO/gtUBBUQHWU/gMAMlUWwBJkK1Ows5pwK9u
+3vDEE8KlRiepdWPmezN94fFEDVxkVmVD7+gJtcO7l/P+VPbB7XD2Nz0UzbroGxZ/
+QliR3hmYVN83ejdyS6yFheWR8gjbZG/v76HOrWeKufgeeSntquIgg5hcWLU5mxGo
+6ml/V1ervk4NSShtk3CPduyGhrCq7R4GkgH6oBA9wZNH+kTEJplceQBA2rQoIC5x
+eovQfjVBRsaUQmli7/SRdqygbxHvPR0IwelP494gl6WygL6R2fBwhMNcMa+BLHGO
+WE+TQyOmENxGHj03PvxxN4tUeps1k5Gg5YuCJE2MWxZNbLAQBD1ol8u9wuuOKbnG
++LdlyJpkAEx1rPqy79gECqAB1Nv+XKwQ5LePfm06nrQkUDSXRrCcOoxLs9JjZJJn
+LoaE1434P+Hu1h2tyKoALnV6SnSsAqhGy4vllT4FlAiU0IxZKSFHlLvsk3yi4cXk
+krCr41DqnyxfY6SylbHUwmiOO3y61Z+n2Q4jWVW4N01K+g==
+=lxfl
+-----END PGP SIGNATURE-----
