@@ -1,0 +1,2 @@
+#!/data/data/com.termux/files/usr/bin/sh
+printf '%s\n' 'Hello from TermuxForge! Your demo package is installed.'

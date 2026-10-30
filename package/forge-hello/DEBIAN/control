@@ -1,0 +1,8 @@
+Package: forge-hello
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: TermuxForge contributors
+Description: Harmless test command for the TermuxForge APT repository
+ A tiny command used to test package creation and installation.
